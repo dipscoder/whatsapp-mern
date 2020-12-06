@@ -1,0 +1,5 @@
+/whatsapp-mern/node_modules
+/whatsapp-backend/node_modules
+/whatsapp-mern/.env
+/whatsapp-backend/.env
+app.js
